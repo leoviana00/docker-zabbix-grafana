@@ -5,7 +5,6 @@
 
 ![](/imagens/zabbix-grafana-docker.jpeg)
 
-<img src=”/imagens/zabbix-grafana-docker.jpeg”>
 
 ## Pra construção do ambiente
 
