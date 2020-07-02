@@ -6,6 +6,6 @@
 ![](/imagens/zabbix-grafana-docker.jpeg)
 
 
-## Pra construção do ambiente
+## Construindo o ambiente
 
 - docker-compose up
